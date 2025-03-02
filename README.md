@@ -2,6 +2,11 @@
 
 Pop Choice is a movie recommendation application that helps users find movies based on their preferences using AI-generated embeddings.
 
+### UI result:
+<kbd>
+   <img width="1726" alt="Screenshot 2025-03-02 at 11 05 35 AM" src="https://github.com/user-attachments/assets/c625f9ea-ee15-40c7-b2f5-1fb787351654" />
+</kbd>
+
 ## Features
 - Add movies with titles, descriptions, and AI-generated embeddings.
 - Get movie recommendations based on user input.
@@ -94,4 +99,4 @@ This project is licensed under the MIT License.
 
 ---
 
-🚀 Happy coding with Pop Choice!
+🚀 Happy coding with Pop Choice !
